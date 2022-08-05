@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "autoPairBrackets": true,
+  "promptDelete": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "C:\\Users\\nnguy\\Documents\\Code\\AlgorithmZO\\page"
+}
