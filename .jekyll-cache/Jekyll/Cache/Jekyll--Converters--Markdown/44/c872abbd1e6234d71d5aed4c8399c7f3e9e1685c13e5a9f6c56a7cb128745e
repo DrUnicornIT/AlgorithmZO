@@ -1,0 +1,73 @@
+I"Õ<p>#lab #tutorial #schooll</p>
+<h1 id="ailab">AILab</h1>
+<p>Some thing to be learn, some thing to be read.
+<a href="https://functionalcs.github.io/curriculum">A Self-Learning, Moder Compute Science Curriculm</a></p>
+
+<h2 id="introduction-to-computer-science-01">Introduction to Computer Science (01)</h2>
+<p>Full Course - CS2019 Accelerated Intro to CS:</p>
+<ul>
+  <li><a href="/AlgorithmZO">Lecture</a></li>
+  <li>[[PAPL]]</li>
+  <li>[[Code complete course]]</li>
+</ul>
+
+<p>Tool:</p>
+<ul>
+  <li>[[Missing Semese]]</li>
+  <li>[[Vim, Latex]]</li>
+</ul>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	print<span class="o">(</span><span class="s2">"To Be Continue"</span><span class="o">)</span> 
+</code></pre></div></div>
+
+<h2 id="great-practical-ideas-in-computer-science-02">Great Practical Ideas in Computer Science (02)</h2>
+<p>Computer Scientist at Carnegie Mellon</p>
+<h3 id="schedule">Schedule</h3>
+<p><a href="https://www.cs.cmu.edu/~07131/f21/">Documentation</a></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Latex</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Initial setup</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Terminal usage</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Vim - Basisc</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Vim - Advanced</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Git - Basic</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Git - Github</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Bash - Intro &amp; Globs</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Bash - Regex &amp; Grep</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Bash - Pipes</li>
+</ul>
+
+<h2 id="learn-ai-from-scratch-03">Learn AI from Scratch (03)</h2>
+<p><a href="https://learnaifromscratch.github.io">Learn AI from Scratch</a></p>
+<h3 id="document">Document</h3>
+<p>Books:</p>
+<ul>
+  <li><a href="https://mml-book.github.io/book/mml-book.pdf">Mathematics for machine learning</a></li>
+  <li><a href="https://www.overleaf.com/project/5e9ac1c60705310001cd6148">Exercises</a></li>
+</ul>
+
+<p>Video:</p>
+<ul>
+  <li><a href="https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg/videos">Optimize ML</a></li>
+</ul>
+
+<p>Tool:</p>
+<ul>
+  <li><a href="https://nbviewer.org">Jupyter notebook</a></li>
+  <li><a href="https://learnaifromscratch.github.io/about-site.html">Designed</a></li>
+</ul>
+
+<h3 id="lets-begin">Letâ€™s begin</h3>
+<ol>
+  <li>[[Computer Science from Scratch]]</li>
+  <li>[[Math Foundations]]</li>
+  <li>[[Machine Learning]]</li>
+</ol>
+
+<h3 id="workshops">Workshops</h3>
+<ol>
+  <li>[[Money Startup]]</li>
+  <li>[[Passing interviews]]</li>
+</ol>
+:ET

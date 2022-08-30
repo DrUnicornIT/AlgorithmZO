@@ -1,0 +1,129 @@
+I"�<p>#blog #github</p>
+<h1 id="algorithmzo">AlgorithmZO</h1>
+
+<p><a href="https://github.com/AlgorithmZO">AlgoritmZO</a> is a organization account by <a href="https://github.com/DrUnicornIT">DrUnicornIT</a>.</p>
+<ul>
+  <li>Support algorithm in competitive programming.</li>
+  <li>My collections, pet projects and some ideas.</li>
+  <li>Trick learn, code and explore everything.</li>
+  <li>Blog just a</li>
+</ul>
+
+<h2 id="algorithm-in-competitive-programming"><em>Algorithm in competitive programming</em></h2>
+<blockquote>
+  <p>In 2022, I have 4 years for coding by C++. In my high school, I’m one of the most good student in Vietnam. Reading, learning, coding and exploring are skills we need. I have a little list algorithm for everyone need.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>Algorithm</th>
+      <th>Used to</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#Bruteforce">Bruteforce</a></td>
+      <td>Solving a problem that rely on sheer computing power</td>
+    </tr>
+    <tr>
+      <td>[[Binary search]]</td>
+      <td>Finding an item from a sorted list of items</td>
+    </tr>
+    <tr>
+      <td>[[Two pointer]]</td>
+      <td>Typically used for searching pairs in a sorted array</td>
+    </tr>
+    <tr>
+      <td>[[Sorting]]</td>
+      <td>Rearrange a given array or list elements according to a comparison operator on the elements</td>
+    </tr>
+    <tr>
+      <td>[[Prefix sum]]</td>
+      <td>Fast calculation on the sum of elements in a given range</td>
+    </tr>
+    <tr>
+      <td>[[Linked list]]</td>
+      <td>A linear collection of data elements whose order is not give by their physical placement in memory</td>
+    </tr>
+    <tr>
+      <td>[[Knuth Morris Pratt]]</td>
+      <td>A substring search algorithm</td>
+    </tr>
+    <tr>
+      <td>[[Hash]]</td>
+      <td>A hash function that maps keys to some values</td>
+    </tr>
+    <tr>
+      <td>[[Keyword Tree]]</td>
+      <td>An extremely special and useful data-structure that are based on the <em>prefix of a string</em></td>
+    </tr>
+    <tr>
+      <td>[[Range Minimum Query]]</td>
+      <td>Finding the minimal value in an array</td>
+    </tr>
+    <tr>
+      <td>[[Segment Tree]]</td>
+      <td>A data structure that allows answering range queries over an array effectively, while still being flexible enough to allow modifying the array.</td>
+    </tr>
+    <tr>
+      <td>[[Fenwick Tree]]</td>
+      <td>A data structure that can efficiently update elements and calculate <a href="https://en.wikipedia.org/wiki/Prefix_sum" title="Prefix sum">prefix sums</a> in a table of numbers</td>
+    </tr>
+    <tr>
+      <td>[[Heavy Light Decomposition]]</td>
+      <td>A fairly general technique that allows us to effectively solve many problems that come down to <strong>queries on a tree</strong></td>
+    </tr>
+    <tr>
+      <td>[[Dynamic programming]]</td>
+      <td> An algorithmic technique for solving an optimization problem</td>
+    </tr>
+    <tr>
+      <td>[[DFS and BFS search ]]</td>
+      <td> An algorithm that is used to graph data or searching tree or traversing structures</td>
+    </tr>
+    <tr>
+      <td>[[Dijkstra]]</td>
+      <td> An algorithm for finding the shortest paths between nodes in a graph</td>
+    </tr>
+    <tr>
+      <td>[[Disjoint Set Union]]</td>
+      <td>A data structure that stores a collection of disjoint (non-overlapping) sets</td>
+    </tr>
+    <tr>
+      <td>[[Lowest Common Ancestor]]</td>
+      <td>Finding a least common ancestor</td>
+    </tr>
+    <tr>
+      <td>[[Euler and Hamiltonian]]</td>
+      <td>Euler and Hamiltonian</td>
+    </tr>
+    <tr>
+      <td>[[Ford–Fulkerson]]</td>
+      <td>Algorithm for Maximum Flow Problem</td>
+    </tr>
+    <tr>
+      <td>[[Two-Sat]]</td>
+      <td> Assigning Boolean values to variables to satisfy a given Boolean formula</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="bruteforce">Bruteforce</h2>
+
+<h2 id="my-collections"><em>My collections</em></h2>
+<blockquote>
+  <p>My brotherhood is a pro developer. He recommended “You should have some collections, pet projects. The first benefit is ** advanced level ** . More importantly, having a few pet projects in your github account or CV will attest to employers that you are a ** tech enthusiast ** always looking to learn new things.” So, I started when i was a student.</p>
+</blockquote>
+
+<p>|Year|Project|Content|
+|—-|——-|——-|
+|2020|<a href="https://github.com/DrUnicornIT/DrUnicornIT.github.io">ITK36CHV</a>|<a href="https://drunicornit.github.io/">Simple web front end</a>|
+|2021|<a href="https://github.com/DrUnicornIT/SecondWebIt.github.io">Todo-List</a>|<a href="https://drunicornit.github.io/SecondWebIt.github.io">Todo list use local storage</a>|
+|2021|<a href="https://github.com/DrUnicornIT/AppFood">AppFood</a>|App order food in smartphone|
+|2022|Smartlock|FSoft IoT challenge 2022|
+|2022|<a href="https://github.com/DrUnicornIT/OwOGoGo"><em>OwOGoGo</em></a>|Game project SDL2|
+|2022|<a href="https://github.com/DrUnicornIT/AlgorithmZO">AlgorithmZO</a>| Programming blogs |</p>
+<h2 id="trick"><em>Trick</em></h2>
+
+:ET
