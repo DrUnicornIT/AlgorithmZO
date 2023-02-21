@@ -1,6 +1,6 @@
 #lab #tutorial #school
 # AILab
-Some thing to be learn, some thing to be read.
+Some thing **to be learn**, some thing to be read.
 [A Self-Learning, Moder Compute Science Curriculm](https://functionalcs.github.io/curriculum)
 
 ## Introduction to Computer Science (01)
